@@ -2,7 +2,7 @@
 
 This repository will be used to create a homogeneity on the whole organization, then, it will have several other things, like social networks of trainers and alumni of the [Wild Code School](https://wildcodeschool.fr/), etc.
 
-_Vous êtes fraçais 🇫🇷 ? [C'est par ici](LISEZMOI.MD)_
+_Vous êtes fraçais 🇫🇷 ? [C'est par ici](LISEZMOI.md)_
 
 ## The Place To Be
 
